@@ -5,3 +5,5 @@
 
 /model_tfjs
 /tensorflow_model
+
+*.h5
