@@ -1,3 +1,7 @@
 *.csv
 *.pkl
 *.ipynb_checkpoints
+*.onnx
+
+/model_tfjs
+/tensorflow_model

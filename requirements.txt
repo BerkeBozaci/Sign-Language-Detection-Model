@@ -1,0 +1,7 @@
+skl2onnx 
+onnxruntime
+pandas
+numpy
+tensorflow 
+scikit-learn 
+tensorflowjs
