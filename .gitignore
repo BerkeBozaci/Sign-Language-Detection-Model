@@ -7,3 +7,5 @@
 /tensorflow_model
 
 *.h5
+
+/csv_letters
