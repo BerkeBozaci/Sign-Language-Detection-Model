@@ -9,3 +9,6 @@
 *.h5
 
 /csv_letters
+
+/models
+/neural_network_model
